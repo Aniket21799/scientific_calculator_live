@@ -1,5 +1,5 @@
 # scientific_calculator_live
-This scientific calculator is a web application that allows users to perform various mathematical operations. It has been built using HTML, CSS, and Javascript and is deployed through Vercel.
+This scientific calculator is a web application that allows users to perform various mathematical operations. It has been built using HTML,  Bootstrap CSS, and Javascript and is deployed through Vercel.
 
 To use the calculator, simply open the web application in your preferred browser. You will be presented with a calculator interface that includes buttons for various mathematical operations such as addition, subtraction, multiplication, division, and more.
 
